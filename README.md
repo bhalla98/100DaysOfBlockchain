@@ -15,9 +15,9 @@ I will be Learning and Practicing below technologies/protocols.
 - Solidity programming
 - Javascript, web3.js, (Other frontend tools for DApp Development)
 - Exploring some of the other available ICOs options:
-  - Ethereum, Waves, NXT, NEM, EOS, Stellar
+  - Ethereum, Waves, NXT, NEM, EOS, Stellar, LoomNetwork
 - Exploring new Blockchains:
   - Corda, Ripple, Quorum, BigChainDB
 - Sidechains
-- Non Fungible Tokens Applications
+- Non Fungible Token Applications
 
