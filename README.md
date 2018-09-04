@@ -21,3 +21,12 @@ I will be Learning and Practicing below technologies/protocols.
 - Sidechains
 - Non Fungible Token Applications
 
+## Ongoing Courses
+**Blockchain Architecture Design and Use Cases**
+[CourseLink](https://onlinecourses.nptel.ac.in/noc18_cs47/preview)
+
+**IBM Blockchain Foundation for Developers**
+[CourseLink](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+
+**Ethereum and Solidity: The Complete Developer's Guide**
+[CourseLink](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
