@@ -389,3 +389,20 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 **Thoughts:** Finally done with Week 3. Coming weeks are going to be more towards using Hyperledger Fabric & Hyperledger Composer. So really excited about that. :grin:
 
 **Links:** [Course Link](https://onlinecourses.nptel.ac.in/noc18_cs47/preview)
+
+### Day 37: September 5, 2018
+**Progress:** Watched Lectures 16-20 of Week 4, submitted Quiz-4 of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- L16: RAFT Consensus, Byzantine General Problem 
+- L17: Byzantine Fault Tolerant System, Consensus achieved in Synchronous System, Lamport-Shostak-Pease BFT Algorithm
+- L18: BFT over Asynchronous Systems, Practical Byzantine Fault Tolerance 
+- L19: Overview of Blockchain for Enterprise-grade Solutions 
+- L20: Blockchain Components and Concepts
+
+**Thoughts:** Covered methods to achieve Consensus over Synchronous & Asynchronous Systems when the nodes crash, network fails or when nodes behave maliciously. Started with Blockchain for Enterprise. Learnt about Actors, Components in Blockchain Solution & how Applications interact with Ledgers
+
+**Links:** 
+1. [Lecture 16](https://youtu.be/HD81QFvPF2A)
+2. [Lecture 17](https://youtu.be/naj_LG8Pu0I)
+3. [Lecture 18](https://youtu.be/Xiy0MS4t_2w)
+4. [Lecture 19](https://youtu.be/oqnc0WBahMw)
+5. [Lecture 20](https://youtu.be/TOlv1nRDdfs)
