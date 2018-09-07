@@ -414,4 +414,4 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 
 **Thoughts:** Understood the Architecture. Also dwelled into how a transaction is going to get committed by all peers in the Blockchain network in a consistent manner. 
 
-**Links:** [Lecture 21](https://youtu.be/nBXr7dLXAbE )
+**Links:** [Lecture 21](https://youtu.be/nBXr7dLXAbE)
