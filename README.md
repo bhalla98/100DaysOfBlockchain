@@ -415,3 +415,14 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 **Thoughts:** Understood the Architecture. Also dwelled into how a transaction is going to get committed by all peers in the Blockchain network in a consistent manner. 
 
 **Links:** [Lecture 21](https://youtu.be/nBXr7dLXAbE)
+
+### Day 39: September 7, 2018
+**Progress:** Watched Lecture 22 - “Hyperledger Fabric - Details” of Week 5,  of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- Ordering Service 
+- Channels in Fabric
+- Fabric Peers
+- Certificate Authority 
+
+**Thoughts:** Learning about Single Channel & Multi-Channel Networks, and how Peers work and connect to these channels, and other concepts gave a detailed Architecture of Hyperledger Fabric. 
+
+**Links:** [Lecture 22](https://youtu.be/xjliVltyLRk)
