@@ -406,3 +406,12 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 3. [Lecture 18](https://youtu.be/Xiy0MS4t_2w)
 4. [Lecture 19](https://youtu.be/oqnc0WBahMw)
 5. [Lecture 20](https://youtu.be/TOlv1nRDdfs)
+
+### Day 38: September 6, 2018
+**Progress:** Watched Lecture 21 - "Hyperledger Fabric - Transaction Flow" of Week 5,  of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- Fabric Architecture
+- Transaction Flow in Fabric 
+
+**Thoughts:** Understood the Architecture. Also dwelled into how a transaction is going to get committed by all peers in the Blockchain network in a consistent manner. 
+
+**Links:** [Lecture 21](https://youtu.be/nBXr7dLXAbE )
