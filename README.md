@@ -426,3 +426,16 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 **Thoughts:** Learning about Single Channel & Multi-Channel Networks, and how Peers work and connect to these channels, and other concepts gave a detailed Architecture of Hyperledger Fabric. 
 
 **Links:** [Lecture 22](https://youtu.be/xjliVltyLRk)
+
+### Day 40: September 8, 2018
+**Progress:** 
+- Revisited Lectures 15-18 on various algorithms to arrive at consensus in a Distributed System of participants, of **Blockchain Architecture Design and Use Cases**. 
+- Algorithms: [PAXOS](https://en.wikipedia.org/wiki/Paxos_(computer_science)), [RAFT](https://en.wikipedia.org/wiki/Raft_(computer_science)), [BFT](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance), [PBFT](https://blockonomi.com/practical-byzantine-fault-tolerance/)
+
+**Thoughts:** The various methods to achieve consensus during failure of nodes/network in Synchronous and Asynchronous Distributed Network have intrigued me the most, in this course as of now. 
+
+**Links:** 
+1. [Lecture 15](https://youtu.be/KEe6kjzOzUU)
+2. [Lecture 16](https://youtu.be/HD81QFvPF2A)
+3. [Lecture 17](https://youtu.be/naj_LG8Pu0I)
+4. [Lecture 18](https://youtu.be/Xiy0MS4t_2w)
