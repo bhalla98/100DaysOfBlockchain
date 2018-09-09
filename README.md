@@ -439,3 +439,13 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 2. [Lecture 16](https://youtu.be/HD81QFvPF2A)
 3. [Lecture 17](https://youtu.be/naj_LG8Pu0I)
 4. [Lecture 18](https://youtu.be/Xiy0MS4t_2w)
+
+### Day 41: September 9, 2018
+**Progress:** Completed Week 4 of **IBM Blockchain Foundation for Developers**.
+- Learnt Hyperledger Composer’s deeper structures and components: Business Network Archive (Models, Script File, Access Control Language, Metadata), and Roles (Solution Developer, Solution Administrator)
+- Learnt how to build a Blockchain-based Digital Bank
+
+**Thoughts:** Hyperledger Composer, compared to chaincode, can more quickly model, build and deploy business networks and applications that allow participants to make transactions and exchange assets in a network. Going to look more into the labs & tutorials during the weekend. 
+
+**Links:** [Course Link](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+
