@@ -449,3 +449,15 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 
 **Links:** [Course Link](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 
+### Day 42: September 10, 2018
+**Progress:** Learnt about Sharding in Ethereum Network. 
+- In Bitcoin & Ethereum, all nodes have to store all data on Blockchain locally and process all transactions
+- Sharding divides Blockchain data amongst nodes & allow nodes to process different transactions in parallel 
+
+**Thoughts:** Sharding can mainly help the network fix its scalability issue, and also performance issues, allowing more transactions to be processed quickly without sacrificing security.  
+
+**Links:** 
+1. [What are Ethereum Nodes And Sharding?](https://blockgeeks.com/guides/what-are-ethereum-nodes-and-sharding/)
+2. [How to Scale Ethereum: Sharding Explained](https://medium.com/prysmatic-labs/how-to-scale-ethereum-sharding-explained-ba2e283b7fce)
+3. [Programmer explains Ethereum Sharding](https://www.youtube.com/watch?v=m4Kcgj4mSh8)
+
