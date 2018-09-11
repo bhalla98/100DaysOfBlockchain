@@ -461,3 +461,18 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 2. [How to Scale Ethereum: Sharding Explained](https://medium.com/prysmatic-labs/how-to-scale-ethereum-sharding-explained-ba2e283b7fce)
 3. [Programmer explains Ethereum Sharding](https://www.youtube.com/watch?v=m4Kcgj4mSh8)
 
+### Day 43: September 11, 2018
+**Progress:** Watched Lectures 23-26 of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- L23: Organization and Consortium Network, Membership Service Provider, Transaction Signing
+- L24: Setting up Fabric Network, Endorsement policies
+- L25: Demo of blockchain network as different organizations, Setting & Deploying on IBM Cloud
+- L26: Demo of an asset transfer application, its underlying code & client SDK code
+
+**Thoughts:** Too much to grasp for a single day. Will be revisiting these videos during the weekend. 
+
+**Links:** 
+1. [Lecture 23](https://youtu.be/4ujj5knD3pg)
+2. [Lecture 24](https://youtu.be/eWIa-hfn2WE)
+3. [Lecture 25](https://youtu.be/5Y_yXYA7O0c)
+4. [Lecture 26](https://youtu.be/9usrTmq28Fg)
+
