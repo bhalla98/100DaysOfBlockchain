@@ -476,3 +476,17 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 3. [Lecture 25](https://youtu.be/5Y_yXYA7O0c)
 4. [Lecture 26](https://youtu.be/9usrTmq28Fg)
 
+### Day 44: September 12, 2018
+**Progress:** Watched Lectures 27-30, and submitted Quiz-5 & Quiz-6 of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- Goals & key development concepts of Hyperledger Composer
+- Adminstrator key concepts, Mapping of Composer to Fabric chain code
+- Blockchain Use Cases in Industries
+
+**Thoughts:** Last 2 weeks were all about Hyperledger Fabric & Composer. Learnt a lot about its architecture, how to setup the network, instantiating its chaincode, running applications on it. 
+
+**Links:** 
+1. [Lecture 27](https://youtu.be/iDiaGY31lK0)
+2. [Lecture 28](https://youtu.be/czpYqlyHL3o)
+3. [Lecture 29](https://youtu.be/CJo4mX_STZU)
+4. [Lecture 30](https://youtu.be/GD1_-dcCWA4)
+
