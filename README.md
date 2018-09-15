@@ -500,3 +500,12 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 
 **Links:** [Lecture 31](https://youtu.be/ud3rxnbdIBQ)
 
+### Day 46: September 14, 2018
+**Progress:** Watched Lecture 32 - “Blockchain in Financial Service – II (Compliance and Mortgage)” of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- KYC
+- Privacy Consents 
+- Mortgage over Blockchain 
+
+**Thoughts:** KYC process could get a lot more quicker and automated through blockchain, which can be very beneficial for a country like India. 
+
+**Links:** [Lecture 32](https://youtu.be/mYarAgmwZJM)
