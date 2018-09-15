@@ -509,3 +509,12 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 **Thoughts:** KYC process could get a lot more quicker and automated through blockchain, which can be very beneficial for a country like India. 
 
 **Links:** [Lecture 32](https://youtu.be/mYarAgmwZJM)
+
+### Day 47: September 15, 2018
+**Progress:** Explored & Read about the [Brave browser](https://brave.com)
+
+**Thoughts:** It has an interesting business model where it strips out ads from websites, replaces them with its own ads, for which users get paid in Basic Attention Tokens (BATs) if they view these ads. It then allows users to use BATs for payments to other sites. 
+
+**Links:** 
+1. [The Brave Browser Basics](https://googleweblight.com/i?u=https://www.computerworld.com/article/3292619/web-browsers/the-brave-browser-basics-what-it-does-how-it-differs-from-rivals.html&hl=en-IN)
+2. [Youtube Link](https://www.youtube.com/watch?v=tOHh6OlYqOU&t=46s)
