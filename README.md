@@ -490,3 +490,13 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 3. [Lecture 29](https://youtu.be/CJo4mX_STZU)
 4. [Lecture 30](https://youtu.be/GD1_-dcCWA4)
 
+### Day 45: September 13, 2018
+**Progress:** Watched Lecture 31 - “Blockchain in Financial Service – I (Payments and Secure Trading)” of **Blockchain Architecture Design and Use Cases**. Concepts covered :
+- Cross border payments
+- Stellar and Ripple
+- Project Ubin
+
+**Thoughts:** Looked into Payments and Security Trading of Financial services, and how blockchain is transforming this sector. 
+
+**Links:** [Lecture 31](https://youtu.be/ud3rxnbdIBQ)
+
