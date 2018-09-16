@@ -518,3 +518,16 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 **Links:** 
 1. [The Brave Browser Basics](https://googleweblight.com/i?u=https://www.computerworld.com/article/3292619/web-browsers/the-brave-browser-basics-what-it-does-how-it-differs-from-rivals.html&hl=en-IN)
 2. [Youtube Link](https://www.youtube.com/watch?v=tOHh6OlYqOU&t=46s)
+
+### Day 48: September 16, 2018
+**Progress:** Completed Week 5 & 6 and submitted the final assignment of **IBM Blockchain Foundation for Developers**
+
+**Thoughts:** Feels great to complete **IBM Blockchain Foundation for Developers** course. Now, building projects using Hyperledger tools is the next goal. Got the foundational knowledge on: 
+- Blockchain and DLT in a business environment
+- Blockchain solution components
+- Use cases of Blockchain, How to transfer assets in a network
+- Modeling & building simple business networks using Hyperledger Composer 
+- Hyperledger Fabric
+- Methods to arrive at consensus
+
+**Links:** [Course Link](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
