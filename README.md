@@ -531,3 +531,23 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 - Methods to arrive at consensus
 
 **Links:** [Course Link](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+
+### Day 49: September 17, 2018
+**Progress:** Watched Lectures 33-34, of Week 7 of **Blockchain Architecture Design and Use Cases** on: 
+- L33: Financial Trade 
+- L34: Revolutionizing Global Trade
+
+**Thoughts:** Concepts covered : 
+- **L33: Financial Trade**
+    - Blockchain Enabled Trade
+    - We.Trade - Trade Finance Network 
+    - Supply Chain Financing
+- **L34: Revolutionizing Global Trade**
+    - Blockchain for Trade Logistics 
+    - Global Trade Digitization 
+    - Blockchain for Container Management
+
+**Links:** 
+- [Financial Trade](https://youtu.be/Xtkwfn5gBtU)
+- [Revolutionizing Global Trade](https://youtu.be/6gXjzIkZzEk)
+
