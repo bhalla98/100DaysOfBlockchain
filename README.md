@@ -551,3 +551,12 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 - [Financial Trade](https://youtu.be/Xtkwfn5gBtU)
 - [Revolutionizing Global Trade](https://youtu.be/6gXjzIkZzEk)
 
+### Day 50: September 18, 2018
+**Progress:** Watched Lecture 35 - **“Blockchain in Supply Chain – I”**, of Week 7 of **Blockchain Architecture Design and Use Cases** 
+
+**Thoughts:** Concepts covered : 
+- Food Safety and Food Traceability 
+- Supply Chain Orchestration
+
+**Links:** [Blockchain in Supply Chain – I](https://youtu.be/UAkTaOXO6Go)
+
