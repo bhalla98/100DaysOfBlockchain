@@ -560,3 +560,10 @@ ZK-Snarks proves a computational fact about some data without revealing the actu
 
 **Links:** [Blockchain in Supply Chain – I](https://youtu.be/UAkTaOXO6Go)
 
+### Day 51: September 19, 2018
+**Progress:** Revisited Week 7 Lectures & submitted its quiz of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** After this week, I understood how Blockchain can be used in Financial Services & Global Trade Logistics. Got an overview of Blockchain in Supply Chain Management. 
+
+**Links:** [Course Link](https://onlinecourses.nptel.ac.in/noc18_cs47/preview)
+
