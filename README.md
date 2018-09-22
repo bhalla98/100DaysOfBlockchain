@@ -1,4 +1,4 @@
-# 100DaysOfBlockchain-
+# 100DaysOfBlockchain
 I have taken up the **#100DaysOfBlockchain** challenge where I will commit to code or study Blockchain for minimum of 1 hour for the next 100 Days.
 
 I'll be tweeting my progress with **#100DaysOfBlockchain** hashtag on my Twitter account [@bhalla98](https://twitter.com/bhalla98)
