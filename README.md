@@ -32,6 +32,19 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 53-58: September 21-26, 2018
+**Progress:** Watched Videos of Week 8 and submitted its assignment, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** This week covered industry level applications of Blockchain in : 
+- Supply Chain, Healthcare, Energy markets, Media
+- Government (Advantages, Use cases, Digital Identity)
+
+**Links:** 
+1. [Blockchain in Other Industries](https://youtu.be/mWiAMBDYkvs)
+2. [Blockchain in Government - (Advantages)](https://youtu.be/6aUzbMk-kK8)
+3. [Blockchain in Government - (Use Cases)](https://youtu.be/ldn7Qw5Xszs)
+4. [Blockchain in Government - (Digital Identity)](https://youtu.be/MKS3p2AXsY8)
+
 ### Day 52: September 20, 2018
 **Progress:** Watched Lecture 36 - “Blockchain in Supply Chain - II”, of Week 8 of **Blockchain Architecture Design and Use Cases**
 
