@@ -32,6 +32,13 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 59: October 1, 2018
+**Progress:** Watched Lecture 41 - “Blockchain in Government – (Hyperledger Indy)”, of Week 9, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** Learnt about [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy), a DLT for Decentralized Digital Identity, and how it works. 
+
+**Links:** [Blockchain in Government - (Hyperledger Indy)](https://youtu.be/qF4P7hKjQPY)
+
 ### Day 53-58: September 21-26, 2018
 **Progress:** Watched Videos of Week 8 and submitted its assignment, of **Blockchain Architecture Design and Use Cases**
 
