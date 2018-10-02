@@ -32,6 +32,13 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 60: October 2, 2018
+**Progress:** Watched Lecture 42 - “Blockchain in Government – (Tax Payments and Land Registry Records)”, of Week 9, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** Learnt how Blockchain is used for Tax Payments and managing Land Registry Records. 
+
+**Links:** [Blockchain in Government – (Tax Payments and Land Registry Records)](https://youtu.be/i6Y5hUsikRk)
+
 ### Day 59: October 1, 2018
 **Progress:** Watched Lecture 41 - “Blockchain in Government – (Hyperledger Indy)”, of Week 9, of **Blockchain Architecture Design and Use Cases**
 
