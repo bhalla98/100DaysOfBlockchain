@@ -32,6 +32,19 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 61: October 3, 2018
+**Progress:** Watched Lectures 43-45 and submitted the quiz, of Week 9, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** Concepts covered : 
+- L43: Overview of Blockchain Security 
+- L44: Identities & Policies, Membership & Access Control, Blockchain Crypto Service Providers
+- L55: Privacy in a Blockchain System and through Fabric Channels, Smart Contract Confidentiality
+
+**Links:** 
+1. [Blockchain Security - (Overview)](https://youtu.be/UAkFy33SMFo)
+2. [Blockchain Security - (Membership & Access Control in Fabric)](https://youtu.be/ng-hMpik9n4)
+3. [Blockchain Security - (Privacy in Fabric)](https://youtu.be/Op9Q8kQKbXw)
+
 ### Day 60: October 2, 2018
 **Progress:** Watched Lecture 42 - “Blockchain in Government – (Tax Payments and Land Registry Records)”, of Week 9, of **Blockchain Architecture Design and Use Cases**
 
