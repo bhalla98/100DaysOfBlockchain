@@ -32,6 +32,17 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 62: October 5, 2018
+**Progress:** Played around with IBM Blockchain Starter Pack & Revisited Lectures 25-26 on Hyperledger Fabric Demo, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** IBM Blockchain Starter Pack provides a local environment to build & test Blockchain applications for proof of concept, and how to operate a business network running on a Blockchain. 
+
+**Links:** 
+1. [IBM Blockchain Starter Pack](https://www.ibm.com/blockchain/getting-started)
+2. [IBM Blockchain Platform Documentation](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
+3. [Fabric Demo on IBM Blockchain - I](https://youtu.be/5Y_yXYA7O0c)
+4. [Fabric Demo on IBM Blockchain - II](https://youtu.be/9usrTmq28Fg)
+
 ### Day 61: October 3, 2018
 **Progress:** Watched Lectures 43-45 and submitted the quiz, of Week 9, of **Blockchain Architecture Design and Use Cases**
 
