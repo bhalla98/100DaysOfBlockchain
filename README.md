@@ -32,6 +32,16 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 64: October 7, 2018
+**Progress:** Watched Lecture 47 - “Research Aspects – I (Consensus Scalability)”, of Week 10, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** Concepts Covered : 
+- PoW vs BFT Consensus 
+- Consensus Finality 
+- Consensus Scalability
+
+**Links:** [Research Aspects – I (Consensus Scalability)](https://youtu.be/-Nzb85demnI)
+
 ### Day 63: October 6, 2018
 **Progress:** Watched Lecture 46 - “Blockchain Security – III (Fabric SideDB)”, of Week 10, of **Blockchain Architecture Design and Use Cases**
 
