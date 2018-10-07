@@ -32,6 +32,15 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 63: October 6, 2018
+**Progress:** Watched Lecture 46 - “Blockchain Security – III (Fabric SideDB)”, of Week 10, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:**  Concepts Covered : 
+- SideDB Motivation
+- SideDB Overview
+
+**Links:** [Blockchain Security – III (Fabric SideDB)](https://youtu.be/zMx26lejBTM)
+
 ### Day 62: October 5, 2018
 **Progress:** Played around with IBM Blockchain Starter Pack & Revisited Lectures 25-26 on Hyperledger Fabric Demo, of **Blockchain Architecture Design and Use Cases**
 
