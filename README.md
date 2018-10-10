@@ -32,6 +32,13 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 66: October 9, 2018
+**Progress:** Watched Lecture on [ByzCoin](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kogias), & submitted Week 10 assignment, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** ByzCoin provides a solution to resolve the scalability issues of Bitcoin & demonstrates how to securely process hundreds of transactions per second among hundreds to thousands of decentralized miners.
+
+**Links:** [Research Aspects - ByzCoin](https://youtu.be/m1s2F_626iI)
+
 ### Day 65: October 8, 2018
 **Progress:** Watched Lectures 48-49 on [Bitcoin-NG](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf) & [Collective Signing](https://github.com/dedis/cothority/tree/master/cosi), of Week 10, of **Blockchain Architecture Design and Use Cases**
 
