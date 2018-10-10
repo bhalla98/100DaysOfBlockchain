@@ -32,6 +32,13 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 67: October 10, 2018
+**Progress:** Read a research paper on Blockchain and Scalability
+
+**Thoughts:** Paper discusses various scalability issues with Bitcoin & Ethereum blockchain. It explains & compares recent proposals like the lighting protocol, sharding, super quadratic sharding, DPoS to solve these issues. 
+
+**Links:** [Blockchain and Scalability](https://ieeexplore.ieee.org/abstract/document/8431962)
+
 ### Day 66: October 9, 2018
 **Progress:** Watched Lecture on [ByzCoin](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kogias), & submitted Week 10 assignment, of **Blockchain Architecture Design and Use Cases**
 
