@@ -32,6 +32,23 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 65: October 8, 2018
+**Progress:** Watched Lectures 48-49 on [Bitcoin-NG](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf) & [Collective Signing](https://github.com/dedis/cothority/tree/master/cosi), of Week 10, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** Concepts Covered :
+- L48: **Bitcoin-NG**
+    - PoW Fairness & Scalability 
+    - Bitcoin-NG Working Principles
+    - Key blocks & Microblocks
+- L49: **Collective Signing**
+    - Authority and Digital Signature
+    - Collective Signing (CoSi)
+    - Shnorr Multisignature and BLS Signatures
+
+**Links:** 
+1. [Research Aspects - Bitcoin-NG](https://youtu.be/ViSX9fhsDGM)
+2. [Research Aspects - Collective Signing](https://youtu.be/-fdAgEx1m_M)
+
 ### Day 64: October 7, 2018
 **Progress:** Watched Lecture 47 - “Research Aspects – I (Consensus Scalability)”, of Week 10, of **Blockchain Architecture Design and Use Cases**
 
