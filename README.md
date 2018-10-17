@@ -32,6 +32,22 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 68-74: October 11-17, 2018
+**Progress:** Watched Videos of Week 11 and submitted its assignment, of **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** This week was all about Research aspects of Blockchain. These were the following topics : 
+- Secure Multiparty Computation: A security protocol with the goal to create methods for nodes to jointly compute a function using their inputs without actually revealing their inputs. 
+- Algorand: Scalable Byzantine Agreement for Cryptocurrencies
+- Blockchain for Big Data
+- Blockchain and AI
+
+**Links:** 
+- [Secure Multiparty Computation](https://youtu.be/5VFnMGMoEDQ)
+- [Algorand - I](https://youtu.be/Q1LgYokejfc)
+- [Algorand - II](https://youtu.be/5KdtIWoygXI)
+- [Blockchain for Big Data](https://youtu.be/HXjToUWO568)
+- [Blockchain and AI](https://youtu.be/7NHgpO4RXMM)
+
 ### Day 67: October 10, 2018
 **Progress:** Read a research paper on Blockchain and Scalability
 
