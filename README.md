@@ -32,6 +32,15 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log 
+### Day 75: October 18, 2018
+**Progress:** Learnt about Ethereum’s Architecture & its concepts of Smart Contracts, Gas, Transactions, EVM and additional upcoming capabilities, from **Blockchain Architecture Design and Use Cases**
+
+**Thoughts:** Additional/Upcoming Capabilities : 
+- Raiden state channels suggests that parties need to use blockchain only for resolving disputes, but otherwise perform transactions off-chain.
+- Sharding, in which nodes are partitioned so that they don’t have to store & process entire blockchain. 
+
+**Links:** [Ethereum Ecosystem](https://youtu.be/GLgu7l7YhDw)
+
 ### Day 68-74: October 11-17, 2018
 **Progress:** Watched Videos of Week 11 and submitted its assignment, of **Blockchain Architecture Design and Use Cases**
 
