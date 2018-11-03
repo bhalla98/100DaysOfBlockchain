@@ -24,9 +24,9 @@ I will be Learning and Practicing below technologies/protocols.
 ## Completed Courses
 [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 
-## Ongoing Courses
 [Blockchain Architecture Design and Use Cases](https://onlinecourses.nptel.ac.in/noc18_cs47/preview)
 
+## Ongoing Courses
 [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
