@@ -31,7 +31,19 @@ I will be Learning and Practicing below technologies/protocols.
 
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
-## Log 
+## Log
+### Day 76-85: October 19-28, 2018
+**Progress:** Prepared for the final test & completed **Blockchain Architecture Design and Use Cases** course 
+
+**Thoughts:** This course offered a deep level understanding of various topics :
+1. Cryptography behind Blockchain
+2. Consensus Algorithms
+3. Hyperledger Fabric & Hyperledger Composer
+4. Blockchain Industry/Enterprise Use Cases
+5. Blockchain Research Aspects
+
+**Links:** [Course Link](https://onlinecourses.nptel.ac.in/noc18_cs47/preview)
+
 ### Day 75: October 18, 2018
 **Progress:** Learnt about Ethereum’s Architecture & its concepts of Smart Contracts, Gas, Transactions, EVM and additional upcoming capabilities, from **Blockchain Architecture Design and Use Cases**
 
