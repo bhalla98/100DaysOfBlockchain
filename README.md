@@ -32,6 +32,19 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log
+### Day 86: October 31, 2018
+**Progress:** Finished a tutorial on building a Pet Shop DApp 
+
+**Thoughts:** Tech stack used :
+- Development Tool : [Truffle](https://truffleframework.com) 
+- Local Blockchain Deployment : [Ganache](https://truffleframework.com/ganache)
+- Smart Contracts : Solidity
+- Smart Contract Testing : Javascript
+- User Interface : Web3
+- DApp Interaction Extension : [Metamask](https://metamask.io)
+
+**Links:** [Ethereum - Pet Shop](https://truffleframework.com/tutorials/pet-shop)
+
 ### Day 76-85: October 19-28, 2018
 **Progress:** Prepared for the final test & completed **Blockchain Architecture Design and Use Cases** course 
 
