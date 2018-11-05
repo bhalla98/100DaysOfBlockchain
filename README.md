@@ -32,6 +32,20 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log
+### Day 87: November 1, 2018
+**Progress:** Read in detail about Ethereum Architecture and how it actually works, what exactly happens under the hood
+
+**Thoughts:** Gives a detailed description of the following topics : 
+- Accounts
+- Gas & Payments
+- Transaction & Messages
+- Blocks
+- Transaction Execution
+- Execution Model
+- Mining
+
+**Links:** [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+
 ### Day 86: October 31, 2018
 **Progress:** Finished a tutorial on building a Pet Shop DApp 
 
