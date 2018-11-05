@@ -32,6 +32,13 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log
+### Day 88: November 2, 2018
+**Progress:** Read 0x Protocol White Paper
+
+**Thoughts:** Allows developing of standardized decentralized exchanges, making trading of crypto-to-crypto, ERC20 tokens easily. 
+
+**Links:** [0x Protocol - White Paper](https://0xproject.com/pdfs/0x_white_paper.pdf)
+
 ### Day 87: November 1, 2018
 **Progress:** Read in detail about Ethereum Architecture and how it actually works, what exactly happens under the hood
 
