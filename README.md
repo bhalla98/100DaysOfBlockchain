@@ -32,6 +32,16 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log
+### Day 89: November 3, 2018
+**Progress:** Watched videos explaining 0x Protocol 
+
+**Thoughts:** Gives an easy, understandable explanation of 0x Protocol. Covers everything from their white paper.
+
+**Links:** 
+1. [0x Protocol Explained - Part 1](https://www.youtube.com/watch?v=hWYxUfDM8sE)
+2. [0x Protocol Explained - Part 2](https://www.youtube.com/watch?v=YBfqLOLaym4)
+3. [0x Protocol Explained - Part 3](https://www.youtube.com/watch?v=PIiLBTyoQw0)
+
 ### Day 88: November 2, 2018
 **Progress:** Read 0x Protocol White Paper
 
