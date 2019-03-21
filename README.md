@@ -36,7 +36,8 @@ I will be Learning and Practicing below technologies/protocols.
 
 ![Screenshot](https://github.com/bhalla98/100DaysOfBlockchain/blob/master/ETHOptionsLOGO.jpg)
 
-#### Progress: Worked on ETHOptions and received an Honorable Mention and was one of [0x](https://0x.org) Core Team’s favorite projects
+**Progress:** 
+- Worked on ETHOptions and received an Honorable Mention and was one of [0x](https://0x.org) Core Team’s favorite projects
 
 **Project Summary:**
 - ETHOptions is a decentralized ERC20 Options trading platform to hedge against your crypto investments by leveraging profits and managing risks
