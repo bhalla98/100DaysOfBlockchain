@@ -49,8 +49,8 @@ I will be Learning and Practicing below technologies/protocols.
 - [ETHOptions](https://coinlist.co/build/0x/projects/54758bd0-4f06-4e1f-82a3-8cd302d2695c)
 - [0x + Coinlist Hackathon Recap](https://blog.0xproject.com/0x-coinlist-hackathon-recap-e453b1195533)
 
-### Day 98: 
-#### Progress: Smartcontract Testing
+### Day 98: Smartcontract Testing
+#### Progress: 
 #### 1. Smartcontract Best Practices - Consensys 
 - [Smartcontract Best Practices](https://consensys.github.io/smart-contract-best-practices/general_philosophy/)
 
@@ -69,16 +69,16 @@ I will be Learning and Practicing below technologies/protocols.
 - [Contract Vulnerabilities & Security Tools](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2479191/18400_FULLTEXT.pdf?sequence=1)
 - [SECURIFY-Practical Security Analysis of Contracts](https://arxiv.org/pdf/1806.01143.pdf)
 
-### Day 97: 
-**Progress: Smart Contract Vulnerabilities** 
+### Day 97: Smart Contract Vulnerabilities
+**Progress:** 
 - Read about the Top 10 Smart contract vulnerabilities listed under **Decentralized Application Security Project (DASP)** of 2018
 
 **Links:**
 1. [Smart Contract Vulnerabilities](https://dasp.co)
 2. [Open Source Licensing in Blockchain Projects](https://medium.com/@info_45047/open-source-licensing-and-its-trends-in-blockchain-b40e085c3749)
 
-### Day 96: 
-**Progress: IPFS & Filecoin**
+### Day 96: IPFS & Filecoin
+**Progress:**
 - P2P network, similar to BitTorrent
 - Model encompasses : 
     - Database: for storage
@@ -124,7 +124,7 @@ I will be Learning and Practicing below technologies/protocols.
 1. [IPFS](https://ipfs.io)
 2. [Filecoin](https://filecoin.io)
 
-### Day 95: 
+### Day 95: ICO Smart Contracts
 **Progress: Researched on smart contracts of some of the successful ICO’s & Crowdsale Projects** 
 
 #### 1. ICO SmartContracts
@@ -188,8 +188,9 @@ The world's first decentralized commercial real estate marketplace.
 #### 13. Crowdsale Contracts Github
 - [Crowdsale Contracts Github](https://github.com/topics/crowdsale?o=desc&s=updated)
 
-### Day 94: 
-**Progress: Researched on Blockchain projects in Real Estate Industry & Tokenized Equity** 
+### Day 94: Tokenized Real Estate & Equity
+**Progress:**
+- Researched on Blockchain projects in Real Estate Industry & Tokenized Equity
 
 #### 1. Harbor Platform
 - Decentralized compliance protocol to standardize Issuance & Trading of crypto-securities on Blockchain
@@ -225,16 +226,15 @@ The world's first decentralized commercial real estate marketplace.
 4. [Economics of Entangled Tokens](https://blog.neufund.org/economics-of-entangled-tokens-9fc5b084e2d2)
 5. [Simple Agreement of Future Tokens (SAFT)](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 
-### Day 93: 
-**Progress: Issuance of Tokens & Dividends via Smart Contract**  
-
-#### 1. Issuance of tokens**
+### Day 93: Issuance of Tokens & Dividends via Smart Contract
+**Progress:**  
+#### 1. Issuance of tokens
 **Links:**
 1. [How to issue your own token on Ethereum in less than 20 minutes.](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793)
 2. [6 Steps to ERC20 Tokens and ICO Smart Contracts](https://medium.com/coinmonks/6-steps-to-erc20-tokens-and-ico-smart-contracts-e90523afafa1)
 3. [How To Create Token and Initial Coin Offering Contracts Using Truffle + Zeppelin Solidity](https://blog.zeppelin.solutions/how-to-create-token-and-initial-coin-offering-contracts-using-truffle-openzeppelin-1b7a5dae99b6)
 
-#### 2. Dividends via Smart Contract**
+#### 2. Dividends via Smart Contract
 - Dividend paying contracts distribute dividends to investors proportional to their token ownership
 
 - Dividends should be paid out in proportion to token balances, instead of current balances. 
@@ -284,8 +284,9 @@ The world's first decentralized commercial real estate marketplace.
 1. [Different Approaches for Dividend payment contracts](https://medium.com/@adam.dossa/dividend-payment-contract-based-on-minimetoken-90e5ba7c85d5)
 2. [Writing A Simple Dividend Token Contract](https://programtheblockchain.com/posts/2018/02/07/writing-a-simple-dividend-token-contract/)
 
-### Day 92: 
-**Progress: 0x Protocol** 
+### Day 92: 0x Protocol
+**Progress:**
+- Read about 0x Project. 0x is an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.
 
 **Thoughts:** 
 - 0x solves lack of standardization, that leads to redundancy
@@ -348,8 +349,8 @@ The world's first decentralized commercial real estate marketplace.
 6. [0x Protocol Explained - Part 2](https://www.youtube.com/watch?v=YBfqLOLaym4)
 7. [0x Protocol Explained - Part 3](https://www.youtube.com/watch?v=PIiLBTyoQw0)
 
-### Day 91: 
-**Progress: Ethereum Transaction** 
+### Day 91: Ethereum Transaction
+**Progress:** 
 
 Read in detail on the following topics : 
 - Accounts
@@ -387,7 +388,7 @@ Read in detail on the following topics :
 
 **Links:** [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 
-### Day 90: 
+### Day 90: Truffle
 **Progress: Truffle tutorial for DApp**
 
 #### 1. Finished a tutorial on building a Pet Shop DApp**
