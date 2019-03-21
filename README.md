@@ -32,8 +32,24 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log
+### Day 99-100: [0x + Coinlist Hackathon 2019](https://coinlist.co/build/0x) 
+
+![Screenshot](https://github.com/bhalla98/100DaysOfBlockchain/blob/master/ETHOptionsLOGO.jpg)
+
+#### Progress: Worked on ETHOptions and received an Honorable Mention and was one of [0x](https://0x.org) Core Team’s favorite projects
+
+**Project Summary:**
+- ETHOptions is a decentralized ERC20 Options trading platform to hedge against your crypto investments by leveraging profits and managing risks
+
+**Description:** 
+- An option is a contract that gives an investor the right — but not the obligation — to buy/sell a Crypto Asset (ERC20 Token) at a certain price within a certain period of time. Options Sellers receive ERC20 Option Tokens, generated against their deposited BaseTokens in Escrow, after setting the strike price & expiry time. The Option Seller then creates orders to our 0x Options Relayer to exchange the ERC20 Options Tokens against a Premium (fraction of Strike Price), paid by the Option Buyer in terms of QuoteToken. Exchange of ERC20 Option Tokens & Premium is done by 0x Exchange. The buyer can now choose to exercise his Option Tokens within the expiry time to purchase the locked BaseTokens at Strike Prices, in terms of QuoteTokens. Buyer can then sell BaseTokens in the market, thereby making a profit of (MarketPrice - StrikePrice) per locked BaseToken.
+
+**Links:** 
+- [ETHOptions](https://coinlist.co/build/0x/projects/54758bd0-4f06-4e1f-82a3-8cd302d2695c)
+- [0x + Coinlist Hackathon Recap](https://blog.0xproject.com/0x-coinlist-hackathon-recap-e453b1195533)
+
 ### Day 98: 
-**Progress: Smartcontract Testing**
+#### Progress: Smartcontract Testing
 #### 1. Smartcontract Best Practices - Consensys 
 - [Smartcontract Best Practices](https://consensys.github.io/smart-contract-best-practices/general_philosophy/)
 
