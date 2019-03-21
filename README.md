@@ -32,6 +32,132 @@ I will be Learning and Practicing below technologies/protocols.
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Log
+### Day 92: 
+**Progress: 0x Protocol** 
+
+**Thoughts:** 
+- 0x solves lack of standardization, that leads to redundancy
+    - User’s don’t wanna use 5 tokens for 5 different utilities being executed on their respective dapps
+    - Parallel redundancy - DApps having parallel implementation on a similar type of smart contract )
+- 0x protocol allows other smart contracts to programmatically execute trades on a single line of solidity code 
+    - enables efficient functioning of smart contracts
+    - enables interoperability among diff dapps and smart contracts
+- Stable coins by users can be used to purchase ZRX that’ll fuel trades for other tokens that dapp uses
+
+- Altering orders on chain on DEX, cost you gas. Hence, relayers handle order books off-chain, and settlements handles on-chain. 
+- 0x protocol uses off-chain order relay and on-chain order settlements, 0x enables 2 types of orders 
+    - 1. Point to Point Order
+    - 2. Broadcast  Order
+- Cryptographic signed orders are broadcasted off-chain. Interested counterparties inject 1/more orders on SC to execute trade trustlessly on-chain
+
+#### POINT TO POINT: 
+- used for OTC (over the counter sale ) exchange
+- anyone can perform OTC exchanges
+- Orders are fulfilled by specified Takers Addresses ONLY, ie, Traders will execute their own trades
+
+#### BROADCAST: 
+- Consists of Makers, Takers, Relayers
+- Relayers: DEX, PARADEX, OPENRELAY, etc
+- Anyone can fill an order, not just a specified address
+- There’s txn fee structure to incentives Relayers for hosting order books
+- Maker decides Maker fee, Taker fee for Relayers 
+
+#### PROCESS: 
+1. Relayer sets his fee recipient address and his fee schedule
+2. Maker creates an order, setting FeeA & FeeB that satisfy Relayer’s fee schedule and his address, and signs the order w/ Maker’s private key
+3. Maker transmits this signal order to relayer
+4. Relayer receives order, validates the order for require fee & signature, then posts order to order book
+5. Taker’s receive an updated version of Order Book, that includes Maker’s order
+6. Taker has an option to fill Maker’s order by submitting to exchange contract on Ethereum Blockchain 
+
+- Relayer’s have the power to accept/reject orders. Hence, if Maker really wants his order to be posted to a specific order book, they set MakerFee & TakerFee
+- Taker has an option to fill/not fill the order. If they decide to fill, then they have to pay the set FeeB
+
+#### ORDER BOOK:
+- Centralized Ex. use a matching engine to fill market orders on behalf of users. Users have to trust the prices 
+- But, in DEX, Relayers don’t execute orders on behalf, they just recommend prices to Takers, & Takers decide whether to sign/not sign the order and send it to the Blockchain 
+- Contract stores a reference to previously Filled Orders to prevent an order being filled multiple times 
+- Partial Orders can be executed by Taker by specifying argument called “valueFill” when calling exchange SC function, ie, valueFill should be <= total units of valueA
+- Makers can cancel orders but it costs gas. Cancel Function maps order’s hash to order’s max value which prevents subsequent fills
+
+#### 0x Protocol UseCases:
+1. User can use a single token to buy other security tokens offered by various companies 
+    1. (money/crypto to buy security tokens?)
+    2. 0x can use interoperability amongst various security tokens that can be bought by a single crypto token by user
+2. During dividends, when a user gets profits from his portfolio
+    1. 0x can transfer dividends in a single token that the user accepts, ie, something like a stable coin
+
+**Links:** 
+1. [0x Docs](https://0xproject.com/docs/contracts#Introduction)
+2. [0x White Paper](https://0xproject.com/pdfs/0x_white_paper.pdf)
+3. [0x Github](https://github.com/0xProject)
+4. [0x Blogs](https://blog.0xproject.com/latest)
+5. [0x Protocol Explained - Part 1](https://www.youtube.com/watch?v=hWYxUfDM8sE)
+6. [0x Protocol Explained - Part 2](https://www.youtube.com/watch?v=YBfqLOLaym4)
+7. [0x Protocol Explained - Part 3](https://www.youtube.com/watch?v=PIiLBTyoQw0)
+
+### Day 91: 
+**Progress: Ethereum Transaction** 
+
+Read in detail on the following topics : 
+- Accounts
+- Gas & Payments
+- Transaction & Messages
+- Blocks
+- Transaction Execution
+- Execution Model
+- Mining
+
+**Thoughts:**  
+#### Transaction execution 
+1. Validation of Txn
+    1. Intrinsic Gas :
+        1. Predefined gas fee = 21000
+        2. Storage gas fee = 4(x) + 68(y)
+        3. Contract Creation fee = 32000
+    2. Upfront Cost : 
+        1. Gas limit + Gas price + Value
+2. Deduct upfront cost from sender’s balance; Increment nonce of sender’s account by 1 to account for current txn  
+3. Calculate the remaining gas as :
+    1. Gas limit - Intrinsic Gas
+4. Txn starts executing, Ethereum maintains substate(info req. after txn execution) such as :
+    * Self-destruct set: a set of accounts (if any) that will be discarded after the transaction completes.
+    * Log series: archived and indexable checkpoints of the virtual machine’s code execution.
+    * Refund balance: the amount to be refunded to the sender account after the transaction. Remember how we mentioned that storage in Ethereum costs money, and that a sender is refunded for clearing up storage? Ethereum keeps track of this using a refund counter. The refund counter starts at zero and increments every time the contract deletes something in storage.
+5. Various computations req by Txn are processed. Once all steps are processed, & no invalid state remains, state is finalized by : 
+    1. determining amount of unused gas needed to refunded to user
+    2. refunding refund balance for clearing storage
+6. After sender is refunded : 
+    * the Ether for the gas is given to the miner
+    * the gas used by the transaction is added to the block gas counter (which keeps track of the total gas used by all transactions in the block, and is useful when validating a block)
+    * all accounts in the self-destruct set (if any) are deleted
+7. Finally, we’re left with the new state and a set of the logs created by the transaction.
+
+**Links:** [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+
+### Day 90: 
+**Progress: Truffle tutorial for DApp**
+
+**1. Finished a tutorial on building a Pet Shop DApp**
+Tech stack used :
+- Development Tool : [Truffle](https://truffleframework.com) 
+- Local Blockchain Deployment : [Ganache](https://truffleframework.com/ganache)
+- Smart Contracts : [Solidity](https://solidity.readthedocs.io/en/v0.5.6/)
+- Smart Contract Testing : Javascript
+- User Interface : [Web3](https://web3js.readthedocs.io/en/1.0/)
+- DApp Interaction Extension : [Metamask](https://metamask.io)
+
+**Links:** 
+[Ethereum - Pet Shop](https://truffleframework.com/tutorials/pet-shop)
+
+**2. Ethereum Development Tutorial - Devslopes**
+**Progress:**
+- Developed & Deployed a standard ERC20 Token smart contract using Solidity, built upon `zeppelin-solidity` to ensure stability and security, as well as ERC20 compliance.
+
+**Links:** 
+1. [Course Link](https://www.devslopes.com/courses/ethereum-blockchain)
+2. [Github Repo Link](https://github.com/bhalla98/SBCoin)
+
 ### Day 89: November 3, 2018
 **Progress:** Watched videos explaining 0x Protocol 
 
